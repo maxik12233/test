@@ -1,5 +1,5 @@
 {
-  "homepage": "https://amand1a.github.io/jobored",
+  "homepage": "https://maxik12233.github.io/test",
   "name": "superjob",
   "version": "0.1.0",
   "private": true,
@@ -30,7 +30,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
